@@ -9,4 +9,10 @@ li{
 }
 .cabeçalho{
     display: flex;
+justify-content: space-between;
+]
+}
+.item-cabeçalho{
+    display: inline-block;
+margin: 15px;
 }
